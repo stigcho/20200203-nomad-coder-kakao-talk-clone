@@ -50,10 +50,23 @@
 .friend .friend__now-lisening {
   padding: 4px 8px;
   border-radius: 12px;
-  border: 2px solid #5aad77;
-  font-size: 14px;
+  border: 2px solid #52e084;
+  font-size: 12px;
 }
 
 .friend__now-lisening span {
   opacity: 0.6;
+}
+
+.friend__now-lisening i {
+  font-size: 10px;
+}
+
+.friend__add-btn {
+  display: flex;
+  padding: 12px 16px;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+  border-radius: 4px;
 }
